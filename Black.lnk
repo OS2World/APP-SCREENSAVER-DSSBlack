@@ -1,0 +1,8 @@
+system os2v2_dll INITINSTANCE TERMINSTANCE
+name Black
+file Black
+OPTION DESCRIPTION 'Direct monitor off, screen saver module'
+OPTION ELIMINATE
+OPTION MANYAUTODATA
+OPTION OSNAME='OS/2 and eComStation'
+OPTION SHOWDEAD
